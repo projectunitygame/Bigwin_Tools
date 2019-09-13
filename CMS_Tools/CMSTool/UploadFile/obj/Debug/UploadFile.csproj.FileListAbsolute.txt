@@ -1,0 +1,421 @@
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\UploadFile.dll.config
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\UploadFile.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\UploadFile.pdb
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\csc.exe
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\csc.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\csc.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\csi.exe
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\csi.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\csi.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.AppContext.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Console.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\vbc.exe
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\vbc.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\vbc.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\obj\Debug\UploadFile.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\log4net.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\Newtonsoft.Json.dll
+C:\Users\Dien Nguyen\Dropbox\Project\DATPHU_PRINTING\CMS_Tools\CMS_Tools\UploadFile\bin\Newtonsoft.Json.xml
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\UploadFile.dll.config
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\UploadFile.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\UploadFile.pdb
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\csc.exe
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\csc.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\csc.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\csi.exe
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\csi.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\csi.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.AppContext.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Console.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\vbc.exe
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\vbc.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\vbc.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\Newtonsoft.Json.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\Newtonsoft.Json.xml
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\obj\Debug\UploadFile.dll
+C:\Users\Dien Nguyen\Dropbox\Project\TUPHU\CMS_Tools\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\UploadFile.dll.config
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\UploadFile.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\UploadFile.pdb
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\csc.exe
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\csc.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\csc.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\csi.exe
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\csi.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\csi.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.AppContext.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Console.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\vbc.exe
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\vbc.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\vbc.rsp
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\Newtonsoft.Json.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\Newtonsoft.Json.xml
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\obj\Debug\UploadFile.dll
+C:\Users\Dien Nguyen\Dropbox\Project\MYSYSTEM.COM.VN\CMS_Tools\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\UploadFile.dll.config
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\UploadFile.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\UploadFile.pdb
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csc.exe
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csc.exe.config
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csc.rsp
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csi.exe
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csi.exe.config
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csi.rsp
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.AppContext.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Console.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Claims.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\vbc.exe
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\vbc.exe.config
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\vbc.rsp
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\Newtonsoft.Json.dll
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\Newtonsoft.Json.xml
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\Seeker\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\UploadFile.dll.config
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\UploadFile.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\UploadFile.pdb
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\csc.exe
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\csc.exe.config
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\csc.rsp
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\csi.exe
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\csi.exe.config
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\csi.rsp
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.AppContext.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Console.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.Compression.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.Pipes.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Claims.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Threading.Thread.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.ValueTuple.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\vbc.exe
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\vbc.exe.config
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\vbc.rsp
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\Newtonsoft.Json.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\Newtonsoft.Json.xml
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.dll
+E:\Uwin_ Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.pdb
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\UploadFile.dll.config
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\UploadFile.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\UploadFile.pdb
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\csc.exe
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\csc.exe.config
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\csc.rsp
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\csi.exe
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\csi.exe.config
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\csi.rsp
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.AppContext.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Console.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.Compression.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.IO.Pipes.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Claims.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Threading.Thread.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.ValueTuple.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\vbc.exe
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\vbc.exe.config
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\vbc.rsp
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\Newtonsoft.Json.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\Newtonsoft.Json.xml
+E:\Uwin_Cms_Source\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Uwin_Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+E:\Uwin_Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+E:\Uwin_Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+E:\Uwin_Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.dll
+E:\Uwin_Cms_Source\CMSTool\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\UploadFile.dll.config
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\UploadFile.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\UploadFile.pdb
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csc.exe
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csc.exe.config
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csc.rsp
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csi.exe
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csi.exe.config
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\csi.rsp
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.AppContext.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Console.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\vbc.exe
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\vbc.exe.config
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\vbc.rsp
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\Newtonsoft.Json.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\Newtonsoft.Json.xml
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.csprojAssemblyReference.cache
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.csproj.CopyComplete
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.dll
+C:\Users\Hero\Documents\GitHub\CMSTool\UploadFile\obj\Debug\UploadFile.pdb

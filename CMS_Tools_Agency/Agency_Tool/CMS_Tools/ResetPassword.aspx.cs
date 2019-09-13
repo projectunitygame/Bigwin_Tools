@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace CMS_Tools
+{
+    public partial class ResetPassword : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if(Session["resetpassword"] != null)
+            {
+                var data = (ResetPasswordUser)Session["resetpassword"];
+                this.txtLoginID.Value = data.loginId;
+            }
+            else
+            {
+                this.formResetPassword.Visible = true;
+            }
+        }
+    }
+}

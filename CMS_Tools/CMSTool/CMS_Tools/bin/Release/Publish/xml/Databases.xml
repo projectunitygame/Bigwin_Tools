@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<channel>
+    <item value="0" name="BUBANC_HUB_ConnectionString">CMSTool_v1</item>
+    <item value="1" name="BUBANC_HUB_Admin_ConnectionString">CMSTool_v1(Admin)</item>
+    <item value="2" name="cmstool_logs_ConnectionString">CMSTool_v1_logs</item>
+</channel>

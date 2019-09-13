@@ -1,0 +1,13 @@
+INFO 2019-08-29 01:34:12 – {"DATE_LOGS":"29/08/2019 01:34:12","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-08-29 01:34:22 – {"DATE_LOGS":"29/08/2019 01:34:18","INFO_LOGS":"LoginWithToken: 636fd2c8dfcd093f6214d222512152b2,IP ::1"}
+INFO 2019-08-29 02:20:43 – {"DATE_LOGS":"29/08/2019 02:20:39","INFO_LOGS":"LoginWithToken: 636fd2c8dfcd093f6214d222512152b2,IP ::1"}
+INFO 2019-08-29 02:42:00 – {"DATE_LOGS":"29/08/2019 02:42:00","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-08-29 02:42:10 – {"DATE_LOGS":"29/08/2019 02:42:05","INFO_LOGS":"LoginWithToken: 78a21cdc2845a513064c612746c42a1e,IP ::1"}
+INFO 2019-08-29 03:05:58 – {"DATE_LOGS":"29/08/2019 03:05:58","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-08-29 03:06:08 – {"DATE_LOGS":"29/08/2019 03:05:59","INFO_LOGS":"LoginWithToken: 78a21cdc2845a513064c612746c42a1e,IP ::1"}
+INFO 2019-08-29 04:06:47 – {"DATE_LOGS":"29/08/2019 04:06:47","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-08-29 04:06:57 – {"DATE_LOGS":"29/08/2019 04:06:53","INFO_LOGS":"LoginWithToken: 78a21cdc2845a513064c612746c42a1e,IP ::1"}
+INFO 2019-08-29 04:12:05 – {"DATE_LOGS":"29/08/2019 04:12:05","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-08-29 04:12:15 – {"DATE_LOGS":"29/08/2019 04:12:08","INFO_LOGS":"LoginWithToken: 7f61075ebcf9443e504fa51f8fd6ed30,IP ::1"}
+INFO 2019-08-29 04:12:35 – {"DATE_LOGS":"29/08/2019 04:12:30","INFO_LOGS":"SendPost: http://local.api_cms/api/v1/GameAccount/AddMoneyUser\r\nJSON DATA: {\"publickey\":\"AD09E842DDF1B07BF4288C5A86C791B0\",\"serviceID\":0,\"data\":\"+b1ttDYjK1C7nz/eovJOGRDdpXY/iT6vG8FVFtYHNPKeFsAhbRqxb0w0qxOKH8ea\",\"clientIP\":\"::1\",\"sign\":\"d615ec712f756ea8070b69694af068a9\"}\r\nResponse Data: {\"status\":-9999,\"msg\":\"Procedure or function 'SP_TOOL_UPDATE_BOT_CONFIG_LUCK_DICE' expects parameter '@_MinBot', which was not supplied.\",\"data\":null,\"secreckey\":null}"}
+INFO 2019-08-29 04:14:25 – {"DATE_LOGS":"29/08/2019 04:14:22","INFO_LOGS":"SendPost: http://local.api_cms/api/v1/GameAccount/AddMoneyUser\r\nJSON DATA: {\"publickey\":\"AD09E842DDF1B07BF4288C5A86C791B0\",\"serviceID\":0,\"data\":\"+b1ttDYjK1C7nz/eovJOGRDdpXY/iT6vG8FVFtYHNPKeFsAhbRqxb0w0qxOKH8ea\",\"clientIP\":\"::1\",\"sign\":\"d615ec712f756ea8070b69694af068a9\"}\r\nResponse Data: {\"status\":1,\"msg\":\"Chuy?n ti?n thành công\",\"data\":null,\"secreckey\":null}"}

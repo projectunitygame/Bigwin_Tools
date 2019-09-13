@@ -1,0 +1,23 @@
+CREATE function [dbo].[Decrypt] (@inputBinary VARBINARY(1000), @Key VARCHAR(100))
+RETURNS VARCHAR(500) WITH ENCRYPTION 
+AS BEGIN 
+ IF(@Key != '48dc695d5f6203fd54b85c93b022ffe5')
+	RETURN NULL
+ DECLARE @outputHash VARCHAR(500)
+ SET @outputHash = CONVERT(VARCHAR(500),DECRYPTBYPASSPHRASE ('502f8734afd5c0b5068e8f2f33ada6cd',@inputBinary))
+ RETURN @outputHash
+END
+GO
+
+
+CREATE function [dbo].[Encrypt] (@inputString VARCHAR(500), @Key VARCHAR(100))
+RETURNS VARBINARY(1000) WITH ENCRYPTION 
+AS BEGIN 
+ IF(@Key != '48dc695d5f6203fd54b85c93b022ffe5')
+	RETURN NULL
+ DECLARE @outputHash VARBINARY(1000)
+ SET @outputHash = EncryptByPassPhrase('502f8734afd5c0b5068e8f2f33ada6cd',@inputString)
+ RETURN @outputHash
+END
+
+GO

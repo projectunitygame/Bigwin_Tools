@@ -1,0 +1,947 @@
+﻿#imgKieuThung span {
+    font-size: 16px;
+}
+
+#CanNap_1 span:nth-child(1) {
+    position: absolute;
+    top: 135px;
+    right: 33px;
+}
+
+#CanLan_1 span:nth-child(1) {
+    position: absolute;
+    bottom: -10px;
+    right: 287px;
+}
+
+#CanNap_2 span:nth-child(1) {
+    position: absolute;
+    top: 111px;
+    right: 33px;
+}
+
+#CanLan_2 span:nth-child(1) {
+    position: absolute;
+    bottom: -10px;
+    right: 287px;
+}
+
+#CanNap_3 span:nth-child(1) {
+    position: absolute;
+    top: 38px;
+    right: 93px;
+}
+
+#CanNap_3 span:nth-child(2) {
+    position: absolute;
+    top: 96px;
+    right: 93px;
+}
+
+#CanNap_3 span:nth-child(3) {
+    position: absolute;
+    top: 150px;
+    right: 93px;
+}
+
+#CanNap_3 span:nth-child(4) {
+    position: absolute;
+    top: 95px;
+    right: 51px;
+}
+
+#CanLan_3 span:nth-child(1) {
+    position: absolute;
+    bottom: 166px;
+    right: 534px;
+}
+
+#CanLan_3 span:nth-child(2) {
+    position: absolute;
+    bottom: 32px;
+    right: 469px;
+}
+
+#CanLan_3 span:nth-child(3) {
+    position: absolute;
+    bottom: 32px;
+    right: 364px;
+}
+
+#CanLan_3 span:nth-child(4) {
+    position: absolute;
+    bottom: 32px;
+    right: 266px;
+}
+
+#CanLan_3 span:nth-child(5) {
+    position: absolute;
+    bottom: 32px;
+    right: 170px;
+}
+
+#CanLan_3 span:nth-child(6) {
+    position: absolute;
+    bottom: 0px;
+    right: 328px;
+}
+
+#CanNap_4 span:nth-child(1) {
+    position: absolute;
+    top: 45px;
+    right: 115px;
+}
+
+#CanNap_4 span:nth-child(2) {
+    position: absolute;
+    top: 107px;
+    right: 115px;
+}
+
+#CanNap_4 span:nth-child(3) {
+    position: absolute;
+    top: 165px;
+    right: 115px;
+}
+
+#CanNap_4 span:nth-child(4) {
+    position: absolute;
+    top: 107px;
+    right: 45px;
+}
+
+#CanLan_4 span:nth-child(1) {
+    position: absolute;
+    bottom: 166px;
+    right: 534px;
+}
+
+#CanLan_4 span:nth-child(2) {
+    position: absolute;
+    bottom: 16px;
+    right: 436px;
+}
+
+#CanLan_4 span:nth-child(3) {
+    position: absolute;
+    bottom: 16px;
+    right: 205px;
+}
+
+#CanLan_4 span:nth-child(4) {
+    position: absolute;
+    bottom: -6px;
+    right: 341px;
+}
+
+#CanNap_5 span:nth-child(1) {
+    position: absolute;
+    top: 45px;
+    right: 80px;
+}
+
+#CanNap_5 span:nth-child(2) {
+    position: absolute;
+    top: 103px;
+    right: 80px;
+}
+
+#CanNap_5 span:nth-child(3) {
+    position: absolute;
+    top: 165px;
+    right: 80px;
+}
+
+#CanNap_5 span:nth-child(4) {
+    position: absolute;
+    top: 103px;
+    right: 42px;
+}
+
+#CanLan_5 span:nth-child(1) {
+    position: absolute;
+    bottom: 166px;
+    right: 534px;
+}
+
+#CanLan_5 span:nth-child(2) {
+    position: absolute;
+    bottom: 20px;
+    right: 442px;
+}
+
+#CanLan_5 span:nth-child(3) {
+    position: absolute;
+    bottom: 20px;
+    right: 350px;
+}
+
+#CanLan_5 span:nth-child(4) {
+    position: absolute;
+    bottom: 20px;
+    right: 244px;
+}
+
+#CanLan_5 span:nth-child(5) {
+    position: absolute;
+    bottom: 20px;
+    right: 138px;
+}
+
+#CanLan_5 span:nth-child(6) {
+    position: absolute;
+    bottom: -3px;
+    right: 310px;
+}
+
+#CanNap_6 span:nth-child(1) {
+    position: absolute;
+    top: 41px;
+    right: 84px;
+}
+
+#CanNap_6 span:nth-child(2) {
+    position: absolute;
+    top: 99px;
+    right: 84px;
+}
+
+#CanNap_6 span:nth-child(3) {
+    position: absolute;
+    top: 162px;
+    right: 84px;
+}
+
+#CanNap_6 span:nth-child(4) {
+    position: absolute;
+    top: 99px;
+    right: 42px;
+}
+
+#CanLan_6 span:nth-child(1) {
+    position: absolute;
+    bottom: 166px;
+    right: 534px;
+}
+
+#CanLan_6 span:nth-child(2) {
+    position: absolute;
+    bottom: 13px;
+    right: 385px;
+}
+
+#CanLan_6 span:nth-child(3) {
+    position: absolute;
+    bottom: 13px;
+    right: 188px;
+}
+
+#CanLan_6 span:nth-child(4) {
+    position: absolute;
+    bottom: -9px;
+    right: 334px;
+}
+
+#CanNap_7 span:nth-child(1) {
+    position: absolute;
+    top: 83px;
+    right: 49px;
+}
+
+#CanLan_7 span:nth-child(1) {
+    position: absolute;
+    bottom: 198px;
+    right: 534px;
+}
+
+#CanLan_7 span:nth-child(2) {
+    position: absolute;
+    bottom: 40px;
+    right: 445px;
+}
+
+#CanLan_7 span:nth-child(3) {
+    position: absolute;
+    bottom: 40px;
+    right: 336px;
+}
+
+#CanLan_7 span:nth-child(4) {
+    position: absolute;
+    bottom: 40px;
+    right: 227px;
+}
+
+#CanLan_7 span:nth-child(5) {
+    position: absolute;
+    bottom: 40px;
+    right: 110px;
+}
+
+#CanLan_7 span:nth-child(6) {
+    position: absolute;
+    bottom: 3px;
+    right: 291px;
+}
+
+#CanNap_8 span:nth-child(1) {
+    position: absolute;
+    top: 97px;
+    right: 47px;
+}
+
+#CanLan_8 span:nth-child(1) {
+    position: absolute;
+    bottom: 194px;
+    right: 534px;
+}
+
+#CanLan_8 span:nth-child(2) {
+    position: absolute;
+    bottom: 20px;
+    right: 349px;
+}
+
+#CanLan_8 span:nth-child(3) {
+    position: absolute;
+    bottom: 20px;
+    right: 145px;
+}
+
+#CanLan_8 span:nth-child(4) {
+    position: absolute;
+    bottom: 0px;
+    right: 290px;
+}
+
+#CanNap_9 span:nth-child(1) {
+    position: absolute;
+    top: 50px;
+    right: 59px;
+}
+
+#CanNap_9 span:nth-child(2) {
+    position: absolute;
+    top: 124px;
+    right: 60px;
+}
+
+#CanNap_9 span:nth-child(3) {
+    position: absolute;
+    top: 104px;
+    right: 30px;
+}
+
+#CanNap_9 span:nth-child(4) {
+    position: absolute;
+    top: 103px;
+    right: 42px;
+}
+
+#CanLan_9 span:nth-child(1) {
+    position: absolute;
+    bottom: 153px;
+    right: 534px;
+}
+
+#CanLan_9 span:nth-child(2) {
+    position: absolute;
+    bottom: 25px;
+    right: 455px;
+}
+
+#CanLan_9 span:nth-child(3) {
+    position: absolute;
+    bottom: 24px;
+    right: 341px;
+}
+
+#CanLan_9 span:nth-child(4) {
+    position: absolute;
+    bottom: 25px;
+    right: 218px;
+}
+
+#CanLan_9 span:nth-child(5) {
+    position: absolute;
+    bottom: 25px;
+    right: 118px;
+}
+
+#CanLan_9 span:nth-child(6) {
+    position: absolute;
+    bottom: -3px;
+    right: 296px;
+}
+
+#CanNap_10 span:nth-child(1) {
+    position: absolute;
+    top: 72px;
+    right: 54px;
+}
+
+#CanNap_10 span:nth-child(2) {
+    position: absolute;
+    top: 146px;
+    right: 54px;
+}
+
+#CanNap_10 span:nth-child(3) {
+    position: absolute;
+    top: 95px;
+    right: 30px;
+}
+
+#CanNap_10 span:nth-child(4) {
+    position: absolute;
+    top: 103px;
+    right: 42px;
+}
+
+#CanLan_10 span:nth-child(1) {
+    position: absolute;
+    bottom: 90px;
+    right: 534px;
+}
+
+#CanLan_10 span:nth-child(2) {
+    position: absolute;
+    bottom: 25px;
+    right: 455px;
+}
+
+#CanLan_10 span:nth-child(3) {
+    position: absolute;
+    bottom: 24px;
+    right: 341px;
+}
+
+#CanLan_10 span:nth-child(4) {
+    position: absolute;
+    bottom: 25px;
+    right: 218px;
+}
+
+#CanLan_10 span:nth-child(5) {
+    position: absolute;
+    bottom: 25px;
+    right: 118px;
+}
+
+#CanLan_10 span:nth-child(6) {
+    position: absolute;
+    bottom: -3px;
+    right: 296px;
+}
+
+#CanNap_11 span:nth-child(1) {
+    position: absolute;
+    top: 41px;
+    right: 88px;
+}
+
+#CanNap_11 span:nth-child(2) {
+    position: absolute;
+    top: 116px;
+    right: 89px;
+}
+
+#CanNap_11 span:nth-child(3) {
+    position: absolute;
+    top: 95px;
+    right: 38px;
+}
+
+#CanLan_11 span:nth-child(1) {
+    position: absolute;
+    bottom: 151px;
+    right: 534px;
+}
+
+#CanLan_11 span:nth-child(2) {
+    position: absolute;
+    bottom: 25px;
+    right: 405px;
+}
+
+#CanLan_11 span:nth-child(3) {
+    position: absolute;
+    bottom: 25px;
+    right: 200px;
+}
+
+#CanLan_11 span:nth-child(4) {
+    position: absolute;
+    bottom: 5px;
+    right: 309px;
+}
+
+#CanNap_12 span:nth-child(1) {
+    position: absolute;
+    top: 76px;
+    right: 79px;
+}
+
+#CanNap_12 span:nth-child(2) {
+    position: absolute;
+    top: 159px;
+    right: 79px;
+}
+
+#CanNap_12 span:nth-child(3) {
+    position: absolute;
+    top: 106px;
+    right: 50px;
+}
+
+#CanLan_12 span:nth-child(1) {
+    position: absolute;
+    bottom: 82px;
+    right: 534px;
+}
+
+#CanLan_12 span:nth-child(2) {
+    position: absolute;
+    bottom: 22px;
+    right: 390px;
+}
+
+#CanLan_12 span:nth-child(3) {
+    position: absolute;
+    bottom: 22px;
+    right: 182px;
+}
+
+#CanLan_12 span:nth-child(4) {
+    position: absolute;
+    bottom: 1px;
+    right: 284px;
+}
+
+#CanNap_13 span:nth-child(1) {
+    position: absolute;
+    top: 38px;
+    right: 88px;
+}
+
+#CanNap_13 span:nth-child(2) {
+    position: absolute;
+    top: 101px;
+    right: 88px;
+}
+
+#CanNap_13 span:nth-child(3) {
+    position: absolute;
+    top: 164px;
+    right: 88px;
+}
+
+#CanNap_13 span:nth-child(4) {
+    position: absolute;
+    top: 101px;
+    right: 43px;
+}
+
+#CanLan_13 span:nth-child(1) {
+    position: absolute;
+    bottom: 161px;
+    right: 534px;
+}
+
+#CanLan_13 span:nth-child(2) {
+    position: absolute;
+    bottom: 11px;
+    right: 463px;
+}
+
+#CanLan_13 span:nth-child(3) {
+    position: absolute;
+    bottom: 11px;
+    right: 350px;
+}
+
+#CanLan_13 span:nth-child(4) {
+    position: absolute;
+    bottom: 11px;
+    right: 243px;
+}
+
+#CanLan_13 span:nth-child(5) {
+    position: absolute;
+    bottom: 11px;
+    right: 142px;
+}
+
+#CanLan_13 span:nth-child(6) {
+    position: absolute;
+    bottom: -9px;
+    right: 315px;
+}
+
+#CanNap_14 span:nth-child(1) {
+    position: absolute;
+    top: 38px;
+    right: 115px;
+}
+
+#CanNap_14 span:nth-child(2) {
+    position: absolute;
+    top: 96px;
+    right: 115px;
+}
+
+#CanNap_14 span:nth-child(3) {
+    position: absolute;
+    top: 157px;
+    right: 115px;
+}
+
+#CanNap_14 span:nth-child(4) {
+    position: absolute;
+    top: 96px;
+    right: 59px;
+}
+
+#CanLan_14 span:nth-child(1) {
+    position: absolute;
+    bottom: 166px;
+    right: 534px;
+}
+
+#CanLan_14 span:nth-child(2) {
+    position: absolute;
+    bottom: 16px;
+    right: 413px;
+}
+
+#CanLan_14 span:nth-child(3) {
+    position: absolute;
+    bottom: 16px;
+    right: 214px;
+}
+
+#CanLan_14 span:nth-child(4) {
+    position: absolute;
+    bottom: -4px;
+    right: 334px;
+}
+
+
+#CanNap_15 span:nth-child(1) {
+    position: absolute;
+    top: 49px;
+    right: 87px;
+}
+
+#CanNap_15 span:nth-child(2) {
+    position: absolute;
+    top: 103px;
+    right: 87px;
+}
+
+#CanNap_15 span:nth-child(3) {
+    position: absolute;
+    top: 157px;
+    right: 87px;
+}
+
+#CanNap_15 span:nth-child(4) {
+    position: absolute;
+    top: 96px;
+    right: 43px;
+}
+
+#CanLan_15 span:nth-child(1) {
+    position: absolute;
+    bottom: 159px;
+    right: 489px;
+}
+
+#CanLan_15 span:nth-child(2) {
+    position: absolute;
+    bottom: 33px;
+    right: 425px;
+}
+
+#CanLan_15 span:nth-child(3) {
+    position: absolute;
+    bottom: 34px;
+    right: 336px;
+}
+
+#CanLan_15 span:nth-child(4) {
+    position: absolute;
+    bottom: 33px;
+    right: 251px;
+}
+
+#CanLan_15 span:nth-child(5) {
+    position: absolute;
+    bottom: 33px;
+    right: 163px;
+}
+
+#CanLan_15 span:nth-child(6) {
+    position: absolute;
+    bottom: 14px;
+    right: 299px;
+}
+
+
+#CanNap_16 span:nth-child(1) {
+    position: absolute;
+    top: 24px;
+    right: 140px;
+}
+
+#CanNap_16 span:nth-child(2) {
+    position: absolute;
+    top: 85px;
+    right: 140px;
+}
+
+#CanNap_16 span:nth-child(3) {
+    position: absolute;
+    top: 148px;
+    right: 141px;
+}
+
+#CanNap_16 span:nth-child(4) {
+    position: absolute;
+    top: 84px;
+    right: 66px;
+}
+
+#CanLan_16 span:nth-child(1) {
+    position: absolute;
+    bottom: 147px;
+    right: 477px;
+}
+
+#CanLan_16 span:nth-child(2) {
+    position: absolute;
+    bottom: 33px;
+    right: 366px;
+}
+
+#CanLan_16 span:nth-child(3) {
+    position: absolute;
+    bottom: 7px;
+    right: 222px;
+}
+
+#CanLan_16 span:nth-child(4) {
+    position: absolute;
+    bottom: -4px;
+    right: 337px;
+}
+
+#CanNap_17 span:nth-child(1) {
+    position: absolute;
+    top: 38px;
+    right: 60px;
+}
+
+#CanNap_17 span:nth-child(2) {
+    position: absolute;
+    top: 110px;
+    right: 60px;
+}
+
+#CanNap_17 span:nth-child(3) {
+    position: absolute;
+    top: 183px;
+    right: 60px;
+}
+
+#CanNap_17 span:nth-child(4) {
+    position: absolute;
+    top: 110px;
+    right: 21px;
+}
+
+#CanLan_17 span:nth-child(1) {
+    position: absolute;
+    bottom: 4px;
+    right: 499px;
+}
+
+#CanLan_17 span:nth-child(2) {
+    position: absolute;
+    bottom: 5px;
+    right: 301px;
+}
+
+#CanLan_17 span:nth-child(3) {
+    position: absolute;
+    bottom: 4px;
+    right: 110px;
+}
+
+#CanLan_17 span:nth-child(4) {
+    position: absolute;
+    bottom: -12px;
+    right: 298px;
+}
+
+#CanNap_18 span:nth-child(1) {
+    position: absolute;
+    top: 41px;
+    right: 115px;
+}
+
+#CanNap_18 span:nth-child(2) {
+    position: absolute;
+    top: 108px;
+    right: 115px;
+}
+
+#CanNap_18 span:nth-child(3) {
+    position: absolute;
+    top: 174px;
+    right: 114px;
+}
+
+#CanNap_18 span:nth-child(4) {
+    position: absolute;
+    top: 108px;
+    right: 51px;
+}
+
+#CanLan_18 span:nth-child(1) {
+    position: absolute;
+    bottom: 21px;
+    right: 483px;
+}
+
+#CanLan_18 span:nth-child(2) {
+    position: absolute;
+    bottom: 20px;
+    right: 321px;
+}
+
+#CanLan_18 span:nth-child(3) {
+    position: absolute;
+    bottom: 21px;
+    right: 165px;
+}
+
+#CanLan_18 span:nth-child(4) {
+    position: absolute;
+    bottom: -1px;
+    right: 318px;
+}
+
+#CanNap_19 span:nth-child(1) {
+    position: absolute;
+    top: 29px;
+    right: 80px;
+}
+
+#CanNap_19 span:nth-child(2) {
+    position: absolute;
+    top: 109px;
+    right: 80px;
+}
+
+#CanNap_19 span:nth-child(3) {
+    position: absolute;
+    top: 175px;
+    right: 80px;
+}
+
+#CanNap_19 span:nth-child(4) {
+    position: absolute;
+    top: 109px;
+    right: 40px;
+}
+
+#CanLan_19 span:nth-child(1) {
+    position: absolute;
+    bottom: 11px;
+    right: 490px;
+}
+
+#CanLan_19 span:nth-child(2) {
+    position: absolute;
+    bottom: 11px;
+    right: 423px;
+}
+
+#CanLan_19 span:nth-child(3) {
+    position: absolute;
+    bottom: 11px;
+    right: 312px;
+}
+
+#CanLan_19 span:nth-child(4) {
+    position: absolute;
+    bottom: 11px;
+    right: 213px;
+}
+
+#CanLan_19 span:nth-child(5) {
+    position: absolute;
+    bottom: 11px;
+    right: 149px;
+}
+
+#CanLan_19 span:nth-child(6) {
+    position: absolute;
+    bottom: -7px;
+    right: 295px;
+}
+
+#CanNap_20 span:nth-child(1) {
+    position: absolute;
+    top: 56px;
+    right: 80px;
+}
+
+#CanNap_20 span:nth-child(2) {
+    position: absolute;
+    top: 91px;
+    right: 80px;
+}
+
+#CanNap_20 span:nth-child(3) {
+    position: absolute;
+    top: 128px;
+    right: 80px;
+}
+
+#CanNap_20 span:nth-child(4) {
+    position: absolute;
+    top: 96px;
+    right: 27px;
+}
+
+#CanNap_20 span:nth-child(5) {
+    position: absolute;
+    top: 109px;
+    right: 40px;
+}
+
+#CanLan_20 span:nth-child(1) {
+    position: absolute;
+    bottom: 11px;
+    right: 490px;
+}
+
+#CanLan_20 span:nth-child(2) {
+    position: absolute;
+    bottom: 11px;
+    right: 423px;
+}
+
+#CanLan_20 span:nth-child(3) {
+    position: absolute;
+    bottom: 11px;
+    right: 312px;
+}
+
+#CanLan_20 span:nth-child(4) {
+    position: absolute;
+    bottom: 11px;
+    right: 213px;
+}

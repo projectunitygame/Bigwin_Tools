@@ -1,0 +1,32 @@
+INFO 2019-09-08 11:31:00 – {"DATE_LOGS":"08/09/2019 11:31:00","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-09-08 11:31:50 – {"DATE_LOGS":"08/09/2019 11:31:50","INFO_LOGS":"LoginWithToken: f34a1ca41867b634661ca6ccb9ff30c5,IP ::1"}
+INFO 2019-09-08 11:31:50 – {"DATE_LOGS":"08/09/2019 11:31:50","INFO_LOGS":"LoginWithToken: f34a1ca41867b634661ca6ccb9ff30c5,IP ::1"}
+INFO 2019-09-08 01:49:09 – {"DATE_LOGS":"08/09/2019 01:49:09","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-09-08 01:49:29 – {"DATE_LOGS":"08/09/2019 01:49:22","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 01:50:59 – {"DATE_LOGS":"08/09/2019 01:50:50","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 02:40:00 – {"DATE_LOGS":"08/09/2019 02:39:58","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 03:32:55 – {"DATE_LOGS":"08/09/2019 03:32:55","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-09-08 03:33:15 – {"DATE_LOGS":"08/09/2019 03:33:05","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 04:26:37 – {"DATE_LOGS":"08/09/2019 04:26:35","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-09-08 04:26:47 – {"DATE_LOGS":"08/09/2019 04:26:42","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 04:26:57 – {"DATE_LOGS":"08/09/2019 04:26:55","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET vip=@vip,quantity=@quantity WHERE betvalue= @betvalue"}
+INFO 2019-09-08 04:36:17 – {"DATE_LOGS":"08/09/2019 04:36:11","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET vip=@vip,quantity=@quantity WHERE betvalue= @betvalue"}
+INFO 2019-09-08 04:42:47 – {"DATE_LOGS":"08/09/2019 04:42:44","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET betvalue=@betvalue,vip=@vip,quantity=@quantity WHERE id= @id"}
+INFO 2019-09-08 04:44:17 – {"DATE_LOGS":"08/09/2019 04:44:12","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET betvalue=@betvalue,vip=@vip,quantity=@quantity WHERE id= @id"}
+INFO 2019-09-08 04:44:27 – {"DATE_LOGS":"08/09/2019 04:44:22","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET betvalue=@betvalue,vip=@vip,quantity=@quantity WHERE id= @id"}
+INFO 2019-09-08 04:48:07 – {"DATE_LOGS":"08/09/2019 04:48:05","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET betvalue=@betvalue,vip=@vip,quantity=@quantity WHERE id= @id"}
+INFO 2019-09-08 04:48:17 – {"DATE_LOGS":"08/09/2019 04:48:13","INFO_LOGS":"UPDATE [luckydicebot].[dbo].[betvalues.config] SET betvalue=@betvalue,vip=@vip,quantity=@quantity WHERE id= @id"}
+INFO 2019-09-08 06:08:58 – {"DATE_LOGS":"08/09/2019 06:08:57","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 06:26:58 – {"DATE_LOGS":"08/09/2019 06:26:58","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-09-08 06:27:38 – {"DATE_LOGS":"08/09/2019 06:27:29","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 06:27:38 – {"DATE_LOGS":"08/09/2019 06:27:29","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 06:44:29 – {"DATE_LOGS":"08/09/2019 06:44:24","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_rewardvippoint] SET rewardname=@rewardname,description=@description,goldreward=@goldreward WHERE rewardid= @rewardid"}
+INFO 2019-09-08 06:46:39 – {"DATE_LOGS":"08/09/2019 06:46:31","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_rewardvippoint] SET rewardname=@rewardname,description=@description,goldreward=@goldreward WHERE rewardid= @rewardid"}
+INFO 2019-09-08 06:46:39 – {"DATE_LOGS":"08/09/2019 06:46:38","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_rewardvippoint] SET rewardname=@rewardname,description=@description,goldreward=@goldreward WHERE rewardid= @rewardid"}
+INFO 2019-09-08 08:32:00 – {"DATE_LOGS":"08/09/2019 08:31:54","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 08:34:17 – {"DATE_LOGS":"08/09/2019 08:34:17","INFO_LOGS":"***** SERVER START *****"}
+INFO 2019-09-08 08:34:57 – {"DATE_LOGS":"08/09/2019 08:34:53","INFO_LOGS":"LoginWithToken: 0981d6660af9358e80c63aea810e7cfd,IP ::1"}
+INFO 2019-09-08 08:57:18 – {"DATE_LOGS":"08/09/2019 08:57:12","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_exchangerate] SET gold=@gold,vippoint=@vippoint WHERE idx= @idx"}
+INFO 2019-09-08 08:57:18 – {"DATE_LOGS":"08/09/2019 08:57:18","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_exchangerate] SET gold=@gold,vippoint=@vippoint WHERE idx= @idx"}
+INFO 2019-09-08 08:57:28 – {"DATE_LOGS":"08/09/2019 08:57:24","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_exchangerate] SET gold=@gold,vippoint=@vippoint WHERE idx= @idx"}
+INFO 2019-09-08 08:57:38 – {"DATE_LOGS":"08/09/2019 08:57:30","INFO_LOGS":"UPDATE [gameportal].[dbo].[tbl_exchangerate] SET gold=@gold,vippoint=@vippoint WHERE idx= @idx"}
