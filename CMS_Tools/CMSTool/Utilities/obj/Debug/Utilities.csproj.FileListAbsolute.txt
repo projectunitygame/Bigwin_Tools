@@ -22,3 +22,9 @@ E:\Uwin_Cms_Source\CMSTool\Utilities\obj\Debug\Utilities.csprojAssemblyReference
 E:\Uwin_Cms_Source\CMSTool\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 E:\Uwin_Cms_Source\CMSTool\Utilities\obj\Debug\Utilities.dll
 E:\Uwin_Cms_Source\CMSTool\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Seeker\Documents\GitHub\big_game_src\Bigwin_Tools\CMS_Tools\CMSTool\Utilities\bin\Debug\Utilities.dll
+C:\Users\Seeker\Documents\GitHub\big_game_src\Bigwin_Tools\CMS_Tools\CMSTool\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Seeker\Documents\GitHub\big_game_src\Bigwin_Tools\CMS_Tools\CMSTool\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Seeker\Documents\GitHub\big_game_src\Bigwin_Tools\CMS_Tools\CMSTool\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Seeker\Documents\GitHub\big_game_src\Bigwin_Tools\CMS_Tools\CMSTool\Utilities\obj\Debug\Utilities.dll
+C:\Users\Seeker\Documents\GitHub\big_game_src\Bigwin_Tools\CMS_Tools\CMSTool\Utilities\obj\Debug\Utilities.pdb
