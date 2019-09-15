@@ -2,7 +2,6 @@
 CMS_Tools/Logs/SaveLog_20190705.log
 .vs/CMS_Tools/config/applicationhost.config
 .vs/CMS_Tools/DesignTimeBuild/.dtbcache
-.vs/CMS_Tools/v15/.suo
 .vs/CMS_Tools/v15/Server/sqlite3/storage.ide
 .vs/CMS_Tools/v15/Server/sqlite3/storage.ide-shm
 .vs/CMS_Tools/v15/Server/sqlite3/storage.ide-wal
@@ -45,11 +44,7 @@ CMS_Tools/obj/Debug/CMS_Tools.dll
 CMS_Tools/obj/Debug/CMS_Tools.pdb
 CMS_Tools/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 CMS_Tools/bin/CMS_Tools.dll
-.vs/CMS_Tools/v15/.suo
-=======
-.vs/CMS_Tools/v16/.suo
-.vs/CMS_Tools/v16/.suo
+
 >>>>>>> f0359c2896ebd81d55a33d37a40ace64f79872ac
-.vs/CMS_Tools/v15/.suo
 .vs/CMS_Tools/v15/Server/sqlite3/storage.ide-shm
 .vs/CMS_Tools/v15/Server/sqlite3/storage.ide-wal
