@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D7B4EADD-AA33-49DF-8684-4EF8C34E1B1C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CMS_Tools</RootNamespace>
+    <AssemblyName>CMS_Tools</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44349</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>disabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AegisImplicitMail, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AIM.1.0.3\lib\AegisImplicitMail.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\..\..\Google Drive\DEV_CODE\VNLITE\vnlite\APIs\APIs\bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Telerik.Web.UI, Version=2012.1.215.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AccountManage.aspx" />
+    <Content Include="Article.aspx" />
+    <Content Include="assets\global\plugins\Base64.js" />
+    <Content Include="assets\global\plugins\nouislider\nouislider.min.css" />
+    <Content Include="assets\global\plugins\nouislider\nouislider.pips.css" />
+    <Content Include="assets\global\css\print\print.css" />
+    <Content Include="assets\global\css\print\style.css" />
+    <Content Include="assets\global\css\sensor.css" />
+    <Content Include="assets\global\css\Style.css" />
+    <Content Include="assets\global\css\summernote.css" />
+    <Content Include="assets\global\img\avatar.png" />
+    <Content Include="assets\global\img\DP_Logo.png" />
+    <Content Include="assets\global\img\loading_spinner.gif" />
+    <Content Include="assets\global\plugins\amcharts\v4\animated.js" />
+    <Content Include="assets\global\plugins\amcharts\v4\charts.js" />
+    <Content Include="assets\global\plugins\amcharts\v4\core.js" />
+    <Content Include="assets\global\plugins\bootbox.min.js" />
+    <Content Include="assets\global\plugins\bootstrap-maxlength.min.js" />
+    <Content Include="assets\global\plugins\codemirror\lib\codemirror.css" />
+    <Content Include="assets\global\plugins\codemirror\lib\codemirror.js" />
+    <Content Include="assets\global\plugins\codemirror\mode\css\css.js" />
+    <Content Include="assets\global\plugins\codemirror\mode\htmlmixed\htmlmixed.js" />
+    <Content Include="assets\global\plugins\codemirror\mode\javascript\javascript.js" />
+    <Content Include="assets\global\plugins\codemirror\theme\ambiance.css" />
+    <Content Include="assets\global\plugins\codemirror\theme\material.css" />
+    <Content Include="assets\global\plugins\codemirror\theme\neat.css" />
+    <Content Include="assets\global\plugins\codemirror\theme\neo.css" />
+    <Content Include="assets\global\plugins\nouislider\components-nouisliders.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\buttons.dataTables.min.css" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\buttons.flash.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\buttons.html5.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\buttons.print.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\dataTables.buttons.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\fnPagingInfo.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\jquery.dataTables.min.css" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\jquery.dataTables.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\jszip.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\pdfmake.min.js" />
+    <Content Include="assets\global\plugins\datatables\Datatable_1_10_16\vfs_fonts.js" />
+    <Content Include="assets\global\plugins\datatables\images\sort_asc.png" />
+    <Content Include="assets\global\plugins\datatables\images\sort_asc_disabled.png" />
+    <Content Include="assets\global\plugins\datatables\images\sort_both.png" />
+    <Content Include="assets\global\plugins\datatables\images\sort_desc.png" />
+    <Content Include="assets\global\plugins\datatables\images\sort_desc_disabled.png" />
+    <Content Include="assets\global\plugins\datepicker\css\bootstrap-datetimepicker.css" />
+    <Content Include="assets\global\plugins\datepicker\css\datepicker.css" />
+    <Content Include="assets\global\plugins\datepicker\css\daterangepicker-bs3.css" />
+    <Content Include="assets\global\plugins\datepicker\js\bootstrap-datepicker.js" />
+    <Content Include="assets\global\plugins\Datetime\bootstrap-datepicker.js" />
+    <Content Include="assets\global\plugins\Datetime\bootstrap-datetimepicker.js" />
+    <Content Include="assets\global\plugins\Datetime\bootstrap-datetimepicker.min.js" />
+    <Content Include="assets\global\plugins\Datetime\bootstrap-timepicker.min.js" />
+    <Content Include="assets\global\plugins\Datetime\daterangepicker.js" />
+    <Content Include="assets\global\plugins\Datetime\moment-with-locales.min.js" />
+    <Content Include="assets\global\plugins\Datetime\moment.min.js" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\easy-autocomplete.css" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\easy-autocomplete.min.css" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\easy-autocomplete.themes.css" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\easy-autocomplete.themes.min.css" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\jquery.easy-autocomplete.js" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\jquery.easy-autocomplete.min.js" />
+    <Content Include="assets\global\plugins\easyChart\jquery.easypiechart.min.js" />
+    <Content Include="assets\global\plugins\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\global\plugins\images\sort_asc.png" />
+    <Content Include="assets\global\plugins\images\sort_asc_disabled.png" />
+    <Content Include="assets\global\plugins\images\sort_both.png" />
+    <Content Include="assets\global\plugins\images\sort_desc.png" />
+    <Content Include="assets\global\plugins\images\sort_desc_disabled.png" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\amcharts.js" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\pie.js" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\radar.js" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\serial.js" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\themes\chalk.js" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\themes\light.js" />
+    <Content Include="assets\global\plugins\amcharts\amcharts\themes\patterns.js" />
+    <Content Include="assets\global\plugins\datatables\DT_bootstrap.css" />
+    <Content Include="assets\global\plugins\datatables\DT_bootstrap.js" />
+    <Content Include="assets\global\plugins\datatables\jquery.dataTables.js" />
+    <Content Include="assets\global\plugins\jquery-validation\js\1.11.1\jquery.validate.min.js" />
+    <Content Include="assets\global\plugins\jquery.blockui.min.js" />
+    <Content Include="assets\global\plugins\jquery.min.js" />
+    <Content Include="assets\global\plugins\jquery.multiselect.filter.js" />
+    <Content Include="assets\global\plugins\jquery.multiselect.js" />
+    <Content Include="assets\global\plugins\jquery.pulsate.min.js" />
+    <Content Include="assets\global\plugins\jquery.sparkline.min.js" />
+    <Content Include="assets\global\plugins\jquery.tablednd.js" />
+    <Content Include="assets\global\plugins\js.cookie.min.js" />
+    <Content Include="assets\global\plugins\jstree\jstree.min.js" />
+    <Content Include="assets\global\plugins\jstree\style.min.css" />
+    <Content Include="assets\global\plugins\kendo\kendo.all.min.js" />
+    <Content Include="assets\global\plugins\kendo\kendo.common.min.css" />
+    <Content Include="assets\global\plugins\kendo\kendo.dataviz.min.css" />
+    <Content Include="assets\global\plugins\kendo\kendo.dataviz.silver.min.css" />
+    <Content Include="assets\global\plugins\kendo\kendo.default.min.css" />
+    <Content Include="assets\global\plugins\kendo\kendo.rtl.min.css" />
+    <Content Include="assets\global\plugins\kendo\kendo.silver.min.css" />
+    <Content Include="assets\global\plugins\kendo\Silver\loading.gif" />
+    <Content Include="assets\global\plugins\kendo\Silver\sprite.png" />
+    <Content Include="assets\global\plugins\kendo\Splitter\jquery.min.js" />
+    <Content Include="assets\global\plugins\kendo\Splitter\kendo.all.min.js" />
+    <Content Include="assets\global\plugins\kendo\Splitter\kendo.common-material.min.css" />
+    <Content Include="assets\global\plugins\kendo\Splitter\kendo.material.min.css" />
+    <Content Include="assets\global\plugins\kendo\Splitter\Material\sprite.png" />
+    <Content Include="assets\global\plugins\Markdown\bootstrap-markdown.js" />
+    <Content Include="assets\global\plugins\Markdown\bootstrap-markdown.min.css" />
+    <Content Include="assets\global\plugins\Markdown\markdown.js" />
+    <Content Include="assets\global\plugins\Markdown\wysiwyg-color.css" />
+    <Content Include="assets\global\plugins\moment.min.js" />
+    <Content Include="assets\global\plugins\nestable\jquery.nestable.css" />
+    <Content Include="assets\global\plugins\nestable\jquery.nestable.js" />
+    <Content Include="assets\global\plugins\nouislider\nouislider.min.js" />
+    <Content Include="assets\global\plugins\select2\js\select2-fix-tab.js" />
+    <Content Include="assets\global\plugins\select2\js\select2.min.js" />
+    <Content Include="assets\global\plugins\socket.io.js" />
+    <Content Include="assets\global\plugins\summernote.min.js" />
+    <Content Include="assets\global\plugins\UploadFiles\bg.gif" />
+    <Content Include="assets\global\plugins\UploadFiles\jquery.tmpl.min.js" />
+    <Content Include="assets\global\plugins\UploadFiles\modernizr.custom.js" />
+    <Content Include="assets\global\plugins\UploadFiles\script.js" />
+    <Content Include="assets\global\plugins\UploadFiles\style.css" />
+    <Content Include="assets\global\plugins\UploadFiles\style1.css" />
+    <Content Include="assets\global\plugins\UploadFiles\upload.js" />
+    <Content Include="assets\global\scripts\app.min.js" />
+    <Content Include="assets\global\scripts\appTest.js" />
+    <Content Include="assets\global\scripts\myapp.js" />
+    <Content Include="assets\global\scripts\test.js" />
+    <Content Include="assets\global\scripts\websocket_real.js" />
+    <Content Include="assets\global\scripts\websocket.js" />
+    <Content Include="assets\pages\css\kieuthung_print.css" />
+    <Content Include="assets\pages\css\kieuthung.css" />
+    <Content Include="assets\pages\img\cms.png" />
+    <Content Include="assets\pages\img\login\bg1.jpg" />
+    <Content Include="assets\pages\img\login\bg2.jpg" />
+    <Content Include="assets\pages\img\login\reload.png" />
+    <Content Include="assets\pages\scripts\AccountManage.js" />
+    <Content Include="assets\pages\scripts\ajax.js" />
+    <Content Include="assets\pages\scripts\app.js" />
+    <Content Include="assets\pages\scripts\CategoryManage.js" />
+    <Content Include="assets\pages\scripts\components-code-editors.min.js" />
+    <Content Include="assets\pages\scripts\dashboard.min.js" />
+    <Content Include="assets\pages\scripts\login.js" />
+    <Content Include="assets\pages\scripts\menu.js" />
+    <Content Include="assets\pages\scripts\MenuManage.js" />
+    <Content Include="assets\pages\scripts\RuleManage.js" />
+    <Content Include="Authen\FBLogin_Request.aspx" />
+    <Content Include="Authen\FB_OauthCallback.aspx" />
+    <Content Include="Authen\LoginFB.aspx" />
+    <Content Include="Authen\LoginGG.aspx" />
+    <Content Include="Authen\Oauth2Callback.aspx" />
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\Telerik.Web.UI.dll" />
+    <Content Include="CategoryManage.aspx" />
+    <Content Include="CreateJson_Chart.aspx" />
+    <Content Include="css\bootstrap-grid.css" />
+    <Content Include="css\bootstrap-grid.min.css" />
+    <Content Include="css\bootstrap-reboot.css" />
+    <Content Include="css\bootstrap-reboot.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\bootstrap.min_v3.3.1.css" />
+    <Content Include="css\components.min.css" />
+    <Content Include="css\font-awesome\css\font-awesome.min.css" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="css\font.css" />
+    <Content Include="css\select2.min.css" />
+    <Content Include="css\Site.css" />
+    <Content Include="css\Site_.css" />
+    <Content Include="css\sm-blue.css" />
+    <Content Include="css\sm-blue_20181014.css" />
+    <Content Include="css\sm-core-css.css" />
+    <Content Include="css\sm-core-css_20181014.css" />
+    <Content Include="Dashboard.aspx" />
+    <Content Include="DragDrop.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="SuperNova.aspx" />
+    <Content Include="testenscrypt.aspx" />
+    <Content Include="testNaptien.aspx" />
+    <Content Include="Test_BaoCaoThongKe.aspx" />
+    <Content Include="Test_GameData_GameID.aspx" />
+    <Content Include="Test_GameDT_CauHinhBotTaiXiu.aspx" />
+    <Content Include="Test_NhanThuong_CauHinh.aspx" />
+    <Content Include="Test_NhanThuong_TyLe.aspx" />
+    <Content Include="Test_NhanThuong_LichSu.aspx" />
+    <Content Include="Test_NhanThuong_DanhSachQuaTang.aspx" />
+    <Content Include="Test_GameDT_LichSuNoHu.aspx" />
+    <Content Include="Test_GameDT_Quythuong_LichSu.aspx" />
+    <Content Include="Test_GameDT_TheNap_CauHinhThe.aspx" />
+    <Content Include="Test_GameDT_TheNap_DuyetThe.aspx" />
+    <Content Include="Test_GameDT_TheNap_LichSuDuyetThe.aspx" />
+    <Content Include="Test_GameDT_TheNap_MuaTheLoi.aspx" />
+    <Content Include="Test_GameDT_TheNap_ThongKeDoiNap.aspx" />
+    <Content Include="Test_GameDT_TheNap_TimThe.aspx" />
+    <Content Include="Test_GameLogs_KungfuPanda.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="img\ajax-loading.gif" />
+    <Content Include="img\bg_loading.png" />
+    <Content Include="img\datatable-row-openclose.png" />
+    <Content Include="img\document_image_cancel_32.png" />
+    <Content Include="img\Factory_flow.jpg" />
+    <Content Include="img\hor-menu-search-close.png" />
+    <Content Include="img\icon-color-close.png" />
+    <Content Include="img\icon-color.png" />
+    <Content Include="img\loading.gif" />
+    <Content Include="assets\layouts\layout2\img\logo.jpg" />
+    <Content Include="img\overlay-icon.png" />
+    <Content Include="img\portlet-collapse-icon-white.png" />
+    <Content Include="img\portlet-collapse-icon.png" />
+    <Content Include="img\portlet-config-icon-white.png" />
+    <Content Include="img\portlet-config-icon.png" />
+    <Content Include="img\portlet-expand-icon-white.png" />
+    <Content Include="img\portlet-expand-icon.png" />
+    <Content Include="img\portlet-reload-icon-white.png" />
+    <Content Include="img\portlet-reload-icon.png" />
+    <Content Include="img\portlet-remove-icon-white.png" />
+    <Content Include="img\portlet-remove-icon.png" />
+    <Content Include="img\remove-icon-small.png" />
+    <Content Include="img\search-icon-blue.png" />
+    <Content Include="img\search-icon-brown.png" />
+    <Content Include="img\search-icon-purple.png" />
+    <Content Include="img\search-icon-white.png" />
+    <Content Include="img\search-icon.png" />
+    <Content Include="img\sidebar-menu-arrow.png" />
+    <Content Include="img\sidebar-toggler-blue.jpg" />
+    <Content Include="img\sidebar-toggler-brown.jpg" />
+    <Content Include="img\sidebar-toggler-light.jpg" />
+    <Content Include="img\sidebar-toggler-purple.jpg" />
+    <Content Include="img\sidebar-toggler.jpg" />
+    <Content Include="img\social\amazon.png" />
+    <Content Include="img\social\behance.png" />
+    <Content Include="img\social\blogger.png" />
+    <Content Include="img\social\deviantart.png" />
+    <Content Include="img\social\dribbble.png" />
+    <Content Include="img\social\dropbox.png" />
+    <Content Include="img\social\evernote.png" />
+    <Content Include="img\social\facebook.png" />
+    <Content Include="img\social\forrst.png" />
+    <Content Include="img\social\github.png" />
+    <Content Include="img\social\googleplus.png" />
+    <Content Include="img\social\instagram.png" />
+    <Content Include="img\social\jolicloud.png" />
+    <Content Include="img\social\last-fm.png" />
+    <Content Include="img\social\linkedin.png" />
+    <Content Include="img\social\picasa.png" />
+    <Content Include="img\social\pintrest.png" />
+    <Content Include="img\social\reddit.png" />
+    <Content Include="img\social\rss.png" />
+    <Content Include="img\social\skype.png" />
+    <Content Include="img\social\spotify.png" />
+    <Content Include="img\social\stumbleupon.png" />
+    <Content Include="img\social\tumblr.png" />
+    <Content Include="img\social\twitter.png" />
+    <Content Include="img\social\vimeo.png" />
+    <Content Include="img\social\vk.png" />
+    <Content Include="img\social\wordpress.png" />
+    <Content Include="img\social\xing.png" />
+    <Content Include="img\social\yahoo.png" />
+    <Content Include="img\social\youtube.png" />
+    <Content Include="img\spinner.gif" />
+    <Content Include="img\syncfusion-icons-white.png" />
+    <Content Include="LayoutBanHang.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Menu.aspx" />
+    <Content Include="MenuManage.aspx" />
+    <Content Include="Page.aspx" />
+    <Content Include="Page404.aspx" />
+    <Content Include="Ping.aspx" />
+    <Content Include="PrintOrderDetail.aspx" />
+    <Content Include="PrintPage.aspx" />
+    <Content Include="ResetPassword.aspx" />
+    <Content Include="RuleManage.aspx" />
+    <Content Include="Test.aspx" />
+    <Content Include="test.html" />
+    <Content Include="TestFunc.aspx" />
+    <Content Include="TestPage.aspx" />
+    <Content Include="Test_GameLogs_LichSuChoi.aspx" />
+    <Content Include="Test_GiaoDich_GDTrongGame.aspx" />
+    <Content Include="Test_GameDT_GiftcodeEvent.aspx" />
+    <Content Include="Test_GameDT_GiftCodeThongTin.aspx" />
+    <Content Include="Test_GiaoDich_GDDaiLy.aspx" />
+    <Content Include="Test_Naptien.aspx" />
+    <Content Include="Test_GameDT_Quythuong.aspx" />
+    <Content Include="Test_Vippoint_LichSu.aspx" />
+    <Content Include="Test_Publisher.aspx" />
+    <Content Include="Test_Taikhoandaily.aspx" />
+    <Content Include="Test_GameDT_ThongBao.aspx" />
+    <Content Include="Test_TKGame_LichSuCongTien.aspx" />
+    <Content Include="Test_TKGame_LichSuKhoaTK.aspx" />
+    <Content Include="Test_TKGame_TimTK.aspx" />
+    <Content Include="Test_GameDT_TheNap_KhoThe.aspx" />
+    <Content Include="Test_TKGame_TKBiKhoa.aspx" />
+    <Content Include="Tools.aspx" />
+    <Content Include="VetifyResetPassword.aspx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+    <Content Include="WebForm2.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountManage.aspx.cs">
+      <DependentUpon>AccountManage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccountManage.aspx.designer.cs">
+      <DependentUpon>AccountManage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\Account.ashx.cs">
+      <DependentUpon>Account.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\API_Agency.ashx.cs">
+      <DependentUpon>API_Agency.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\API_Customer.ashx.cs">
+      <DependentUpon>API_Customer.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\API_GameAccount.ashx.cs">
+      <DependentUpon>API_GameAccount.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\API_Order.ashx.cs">
+      <DependentUpon>API_Order.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\Captcha.ashx.cs">
+      <DependentUpon>Captcha.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\Categories.ashx.cs">
+      <DependentUpon>Categories.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\General.ashx.cs">
+      <DependentUpon>General.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\Menu.ashx.cs">
+      <DependentUpon>Menu.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Apis\Upload.ashx.cs">
+      <DependentUpon>Upload.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Article.aspx.cs">
+      <DependentUpon>Article.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Article.aspx.designer.cs">
+      <DependentUpon>Article.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Authen\FBLogin_Request.aspx.cs">
+      <DependentUpon>FBLogin_Request.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Authen\FBLogin_Request.aspx.designer.cs">
+      <DependentUpon>FBLogin_Request.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Authen\FB_OauthCallback.aspx.cs">
+      <DependentUpon>FB_OauthCallback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Authen\FB_OauthCallback.aspx.designer.cs">
+      <DependentUpon>FB_OauthCallback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Authen\LoginFB.aspx.cs">
+      <DependentUpon>LoginFB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Authen\LoginFB.aspx.designer.cs">
+      <DependentUpon>LoginFB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Authen\LoginGG.aspx.cs">
+      <DependentUpon>LoginGG.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Authen\LoginGG.aspx.designer.cs">
+      <DependentUpon>LoginGG.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Authen\Oauth2Callback.aspx.cs">
+      <DependentUpon>Oauth2Callback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Authen\Oauth2Callback.aspx.designer.cs">
+      <DependentUpon>Oauth2Callback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryManage.aspx.cs">
+      <DependentUpon>CategoryManage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoryManage.aspx.designer.cs">
+      <DependentUpon>CategoryManage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateJson_Chart.aspx.cs">
+      <DependentUpon>CreateJson_Chart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateJson_Chart.aspx.designer.cs">
+      <DependentUpon>CreateJson_Chart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DragDrop.aspx.cs">
+      <DependentUpon>DragDrop.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DragDrop.aspx.designer.cs">
+      <DependentUpon>DragDrop.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Article.cs" />
+    <Compile Include="Entity\Categories.cs" />
+    <Compile Include="Entity\ErrorLogs.cs" />
+    <Compile Include="Entity\Menu.cs" />
+    <Compile Include="Entity\SaveLogs.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SuperNova.aspx.cs">
+      <DependentUpon>SuperNova.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SuperNova.aspx.designer.cs">
+      <DependentUpon>SuperNova.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testenscrypt.aspx.cs">
+      <DependentUpon>testenscrypt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testenscrypt.aspx.designer.cs">
+      <DependentUpon>testenscrypt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testNaptien.aspx.cs">
+      <DependentUpon>testNaptien.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testNaptien.aspx.designer.cs">
+      <DependentUpon>testNaptien.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_BaoCaoThongKe.aspx.cs">
+      <DependentUpon>Test_BaoCaoThongKe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_BaoCaoThongKe.aspx.designer.cs">
+      <DependentUpon>Test_BaoCaoThongKe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameData_GameID.aspx.cs">
+      <DependentUpon>Test_GameData_GameID.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameData_GameID.aspx.designer.cs">
+      <DependentUpon>Test_GameData_GameID.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_CauHinhBotTaiXiu.aspx.cs">
+      <DependentUpon>Test_GameDT_CauHinhBotTaiXiu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_CauHinhBotTaiXiu.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_CauHinhBotTaiXiu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_NhanThuong_CauHinh.aspx.cs">
+      <DependentUpon>Test_NhanThuong_CauHinh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_NhanThuong_CauHinh.aspx.designer.cs">
+      <DependentUpon>Test_NhanThuong_CauHinh.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_NhanThuong_TyLe.aspx.cs">
+      <DependentUpon>Test_NhanThuong_TyLe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_NhanThuong_TyLe.aspx.designer.cs">
+      <DependentUpon>Test_NhanThuong_TyLe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_NhanThuong_LichSu.aspx.cs">
+      <DependentUpon>Test_NhanThuong_LichSu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_NhanThuong_LichSu.aspx.designer.cs">
+      <DependentUpon>Test_NhanThuong_LichSu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_NhanThuong_DanhSachQuaTang.aspx.cs">
+      <DependentUpon>Test_NhanThuong_DanhSachQuaTang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_NhanThuong_DanhSachQuaTang.aspx.designer.cs">
+      <DependentUpon>Test_NhanThuong_DanhSachQuaTang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_LichSuNoHu.aspx.cs">
+      <DependentUpon>Test_GameDT_LichSuNoHu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_LichSuNoHu.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_LichSuNoHu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_Quythuong_LichSu.aspx.cs">
+      <DependentUpon>Test_GameDT_Quythuong_LichSu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_Quythuong_LichSu.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_Quythuong_LichSu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_CauHinhThe.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_CauHinhThe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_CauHinhThe.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_CauHinhThe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_DuyetThe.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_DuyetThe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_DuyetThe.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_DuyetThe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_LichSuDuyetThe.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_LichSuDuyetThe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_LichSuDuyetThe.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_LichSuDuyetThe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_MuaTheLoi.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_MuaTheLoi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_MuaTheLoi.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_MuaTheLoi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_ThongKeDoiNap.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_ThongKeDoiNap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_ThongKeDoiNap.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_ThongKeDoiNap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_TimThe.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_TimThe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_TimThe.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_TimThe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameLogs_KungfuPanda.aspx.cs">
+      <DependentUpon>Test_GameLogs_KungfuPanda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameLogs_KungfuPanda.aspx.designer.cs">
+      <DependentUpon>Test_GameLogs_KungfuPanda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="LayoutBanHang.aspx.cs">
+      <DependentUpon>LayoutBanHang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LayoutBanHang.aspx.designer.cs">
+      <DependentUpon>LayoutBanHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Lib\BaseWebSocket.cs" />
+    <Compile Include="Lib\Constants.cs" />
+    <Compile Include="Lib\EditImages.cs" />
+    <Compile Include="Lib\Encryptor.cs" />
+    <Compile Include="Lib\FacebookLib.cs" />
+    <Compile Include="Lib\GoogleLib.cs" />
+    <Compile Include="Lib\Helper.cs" />
+    <Compile Include="Lib\Logs.cs" />
+    <Compile Include="Lib\Mail.cs" />
+    <Compile Include="Lib\UtilClass.cs" />
+    <Compile Include="Lib\WebClass.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.aspx.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Menu.aspx.designer.cs">
+      <DependentUpon>Menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuManage.aspx.cs">
+      <DependentUpon>MenuManage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuManage.aspx.designer.cs">
+      <DependentUpon>MenuManage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Model\AccountModel.cs" />
+    <Compile Include="Model\CategoryModel.cs" />
+    <Compile Include="Model\ConnectionDB.cs" />
+    <Compile Include="Model\ManagerDAO.cs" />
+    <Compile Include="Model\MenuModel.cs" />
+    <Compile Include="Page.aspx.cs">
+      <DependentUpon>Page.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page.aspx.designer.cs">
+      <DependentUpon>Page.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Page404.aspx.cs">
+      <DependentUpon>Page404.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page404.aspx.designer.cs">
+      <DependentUpon>Page404.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ping.aspx.cs">
+      <DependentUpon>Ping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ping.aspx.designer.cs">
+      <DependentUpon>Ping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrintOrderDetail.aspx.cs">
+      <DependentUpon>PrintOrderDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrintOrderDetail.aspx.designer.cs">
+      <DependentUpon>PrintOrderDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPage.aspx.cs">
+      <DependentUpon>PrintPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrintPage.aspx.designer.cs">
+      <DependentUpon>PrintPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResetPassword.aspx.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.designer.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RuleManage.aspx.cs">
+      <DependentUpon>RuleManage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RuleManage.aspx.designer.cs">
+      <DependentUpon>RuleManage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Server\Packet\PacketBase.cs" />
+    <Compile Include="Server\Packet\UserPacket.cs" />
+    <Compile Include="Server\ServerHandler.ashx.cs">
+      <DependentUpon>ServerHandler.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Server\ServerSocket.cs" />
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Test.aspx.cs">
+      <DependentUpon>Test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test.aspx.designer.cs">
+      <DependentUpon>Test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestFunc.aspx.cs">
+      <DependentUpon>TestFunc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestFunc.aspx.designer.cs">
+      <DependentUpon>TestFunc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestPage.aspx.cs">
+      <DependentUpon>TestPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestPage.aspx.designer.cs">
+      <DependentUpon>TestPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameLogs_LichSuChoi.aspx.cs">
+      <DependentUpon>Test_GameLogs_LichSuChoi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameLogs_LichSuChoi.aspx.designer.cs">
+      <DependentUpon>Test_GameLogs_LichSuChoi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GiaoDich_GDTrongGame.aspx.cs">
+      <DependentUpon>Test_GiaoDich_GDTrongGame.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GiaoDich_GDTrongGame.aspx.designer.cs">
+      <DependentUpon>Test_GiaoDich_GDTrongGame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_GiftcodeEvent.aspx.cs">
+      <DependentUpon>Test_GameDT_GiftcodeEvent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_GiftcodeEvent.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_GiftcodeEvent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_GiftCodeThongTin.aspx.cs">
+      <DependentUpon>Test_GameDT_GiftCodeThongTin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_GiftCodeThongTin.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_GiftCodeThongTin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GiaoDich_GDDaiLy.aspx.cs">
+      <DependentUpon>Test_GiaoDich_GDDaiLy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GiaoDich_GDDaiLy.aspx.designer.cs">
+      <DependentUpon>Test_GiaoDich_GDDaiLy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_Naptien.aspx.cs">
+      <DependentUpon>Test_Naptien.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_Naptien.aspx.designer.cs">
+      <DependentUpon>Test_Naptien.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_Quythuong.aspx.cs">
+      <DependentUpon>Test_GameDT_Quythuong.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_Quythuong.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_Quythuong.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_Vippoint_LichSu.aspx.cs">
+      <DependentUpon>Test_Vippoint_LichSu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_Vippoint_LichSu.aspx.designer.cs">
+      <DependentUpon>Test_Vippoint_LichSu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_Publisher.aspx.cs">
+      <DependentUpon>Test_Publisher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_Publisher.aspx.designer.cs">
+      <DependentUpon>Test_Publisher.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_Taikhoandaily.aspx.cs">
+      <DependentUpon>Test_Taikhoandaily.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_Taikhoandaily.aspx.designer.cs">
+      <DependentUpon>Test_Taikhoandaily.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_ThongBao.aspx.cs">
+      <DependentUpon>Test_GameDT_ThongBao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_ThongBao.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_ThongBao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_TKGame_LichSuCongTien.aspx.cs">
+      <DependentUpon>Test_TKGame_LichSuCongTien.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_TKGame_LichSuCongTien.aspx.designer.cs">
+      <DependentUpon>Test_TKGame_LichSuCongTien.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_TKGame_LichSuKhoaTK.aspx.cs">
+      <DependentUpon>Test_TKGame_LichSuKhoaTK.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_TKGame_LichSuKhoaTK.aspx.designer.cs">
+      <DependentUpon>Test_TKGame_LichSuKhoaTK.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_TKGame_TimTK.aspx.cs">
+      <DependentUpon>Test_TKGame_TimTK.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_TKGame_TimTK.aspx.designer.cs">
+      <DependentUpon>Test_TKGame_TimTK.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_KhoThe.aspx.cs">
+      <DependentUpon>Test_GameDT_TheNap_KhoThe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_GameDT_TheNap_KhoThe.aspx.designer.cs">
+      <DependentUpon>Test_GameDT_TheNap_KhoThe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Test_TKGame_TKBiKhoa.aspx.cs">
+      <DependentUpon>Test_TKGame_TKBiKhoa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test_TKGame_TKBiKhoa.aspx.designer.cs">
+      <DependentUpon>Test_TKGame_TKBiKhoa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tools.aspx.cs">
+      <DependentUpon>Tools.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tools.aspx.designer.cs">
+      <DependentUpon>Tools.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VetifyResetPassword.aspx.cs">
+      <DependentUpon>VetifyResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VetifyResetPassword.aspx.designer.cs">
+      <DependentUpon>VetifyResetPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="client_secret_983373798777-4g51i680oq8gq0pj1otnfesjqse1vsp0.apps.googleusercontent.com.json" />
+    <Content Include="Apis\Account.ashx" />
+    <Content Include="Apis\Menu.ashx" />
+    <Content Include="assets\global\plugins\datepicker\less\datepicker.less" />
+    <Content Include="Apis\Upload.ashx" />
+    <Content Include="assets\global\plugins\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\global\plugins\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\global\plugins\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\global\plugins\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Apis\General.ashx" />
+    <Content Include="Apis\API_Customer.ashx" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\maps\easy-autocomplete.css.map" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\maps\easy-autocomplete.min.css.map" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\maps\easy-autocomplete.themes.css.map" />
+    <Content Include="assets\global\plugins\EasyAutocomplete-1.3.5\maps\easy-autocomplete.themes.min.css.map" />
+    <Content Include="Apis\API_Order.ashx" />
+    <Content Include="Apis\Categories.ashx" />
+    <Content Include="css\.DS_Store" />
+    <Content Include="css\bootstrap-grid.css.map" />
+    <Content Include="css\bootstrap-grid.min.css.map" />
+    <Content Include="css\bootstrap-reboot.css.map" />
+    <Content Include="css\bootstrap-reboot.min.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="css\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Apis\Captcha.ashx" />
+    <Content Include="Apis\API_Agency.ashx" />
+    <Content Include="Apis\API_GameAccount.ashx" />
+    <None Include="packages.config" />
+    <Content Include="Site1.Master" />
+    <Content Include="Server\ServerHandler.ashx" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\global\plugins\amcharts\ammap\maps\js\" />
+    <Folder Include="assets\global\plugins\amcharts\amstockcharts\" />
+    <Folder Include="assets\global\plugins\backstretch\" />
+    <Folder Include="assets\global\plugins\bootstrap-daterangepicker\" />
+    <Folder Include="assets\global\plugins\bootstrap-switch\css\" />
+    <Folder Include="assets\global\plugins\bootstrap-switch\js\" />
+    <Folder Include="assets\global\plugins\bootstrap\css\" />
+    <Folder Include="assets\global\plugins\bootstrap\fonts\bootstrap\" />
+    <Folder Include="assets\global\plugins\bootstrap\js\" />
+    <Folder Include="assets\global\plugins\counterup\" />
+    <Folder Include="assets\global\plugins\flot\" />
+    <Folder Include="assets\global\plugins\font-awesome\css\" />
+    <Folder Include="assets\global\plugins\fullcalendar\" />
+    <Folder Include="assets\global\plugins\horizontal-timeline\" />
+    <Folder Include="assets\global\plugins\jquery-easypiechart\" />
+    <Folder Include="assets\global\plugins\jquery-slimscroll\" />
+    <Folder Include="assets\global\plugins\jqvmap\jqvmap\data\" />
+    <Folder Include="assets\global\plugins\jqvmap\jqvmap\maps\" />
+    <Folder Include="assets\global\plugins\morris\" />
+    <Folder Include="assets\global\plugins\select2\css\" />
+    <Folder Include="assets\global\plugins\simple-line-icons\fonts\" />
+    <Folder Include="assets\layouts\global\scripts\" />
+    <Folder Include="assets\layouts\layout2\css\themes\" />
+    <Folder Include="assets\layouts\layout2\scripts\" />
+    <Folder Include="assets\layouts\layout3\img\" />
+    <Folder Include="assets\layouts\layout\img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51572</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:61592/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.6.1\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
